@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+#-------------------------------------------------------------------
+#| see posted messages and webinterface on http://mb.simon-lenz.de |
+#-------------------------------------------------------------------
+
 import socket
 import time
 import json
